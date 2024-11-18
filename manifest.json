@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-thumbnail-images-generator",
+	"name": "Thumbnail Images Generator",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Generate images using Replicate API with OpenAI/OpenRouter-powered prompts",
+	"author": "Malhar Ujawane",
+	"isDesktopOnly": false
+  }
